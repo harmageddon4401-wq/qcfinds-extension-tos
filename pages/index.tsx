@@ -6,14 +6,14 @@ export default function Home() {
     <>
       <Head>
         <title>QC Finds Extension</title>
-        <meta name="description" content="QC Finds Extension - Terms of Service" />
+        <meta name="description" content="QC Finds Extension - Privacy Policy" />
       </Head>
       <main className="container">
         <div className="content">
           <h1>QC Finds Extension</h1>
-          <p>Welcome to QC Finds Extension. Please review our Terms of Service.</p>
+          <p>Welcome to QC Finds Extension. Please review our Privacy Policy.</p>
           <Link href="/legal" className="cta-button">
-            View Terms of Service
+            View Privacy Policy
           </Link>
         </div>
       </main>
